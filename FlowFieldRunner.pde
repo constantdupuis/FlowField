@@ -46,7 +46,7 @@ class FlowFieldRunner
       {
         println("Layer "+(currentLayerIndex+1)+" done");
         noLoop();
-        println("All layers drawned :-)");
+        println("All layers drawn :-)");
       }
     }
     else
@@ -57,4 +57,3 @@ class FlowFieldRunner
   }
 
 }
-
