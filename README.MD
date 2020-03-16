@@ -1,6 +1,6 @@
 # Flow Field
 
-Processing Perlin Noise FLow Field, inspired from [sighack article](https://sighack.com/post/getting-creative-with-perlin-noise-fields).
+Processing Perlin Noise Flow Field, inspired by a [sighack article](https://sighack.com/post/getting-creative-with-perlin-noise-fields).
 
 All code is licensed under the MIT license. See the LICENSE file for more details.
 
@@ -9,18 +9,18 @@ All code is licensed under the MIT license. See the LICENSE file for more detail
 # Install
 
 Install Processing 3.x if you have not already.
-Clone this repo in the Processing SketchBook folder.
+Clone this repo into the Processing sketchbook folder.
 
 ```powershell
 git clone https://github.com/constantdupuis/FlowField.git
 ```
 
-And open FlowField.pde with Processing IDE.
+Open FlowField.pde with the Processing IDE.
 
 
 # Run
 
-The FlowField project comme with few samples. In FlowField.pde, change to sample number at line 8.
+The FlowField project comes with few samples. In FlowField.pde, change the sample number at line 8.
 
 From
 ```processing
@@ -30,12 +30,10 @@ to
 ```processing
 sample08(); 
 ```
-So far, tere is 12 samples, from 0 to 11.
+So far, there are 12 samples, from 0 to 11.
 
 Hit the run button, and look.
 
->You'll get the string "All layers drawned :-)" in Processing console when all layers are drawned.
+> You'll get the string "All layers drawn :-)" in Processing console when all layers are drawn.
 
->At any moment you can press the 's' key to save a screenshot of the scketch in the ***captures*** folder.
-
-
+> At any moment you can press the 's' key to save a screenshot of the sketch into the ***captures*** folder.
